@@ -7,7 +7,7 @@
 <!-- Short Bio -->
 <p>Hey! </br> I'm <b>Dantu Sai Kamal</b> currently working in the <b>Replisense</b> project. I'm a <b>Full Stack Web + Mobile </b>application developer with expertise in <b>Design, Development, Testing and DevOps! </b> </p>
 
-
+ 
 <!-- Tech Stack -->
 </br>
 <h2>Tech Stack</h2>
