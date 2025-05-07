@@ -85,9 +85,6 @@
   <img alt="DynamoDB" src="https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8">
 </kbd>
 <kbd>
-  <img alt="Lambda" src="https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8">
-</kbd>
-<kbd>
   <img alt="ECS Fargate" src="https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8">
 </kbd>
 <kbd>
